@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "$2a$10$89DIbvQvU6PZOe4zGtEDNu7Am18I49IzUauTpbYujk80ZCc89y86q",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "johndoe",
+    "password": "$2a$10$N8vo7qWK3xLhyx4KQo1ESOwqZ8mnzFq3JE8bS8Cvgul1.k/PZbuRK",
+    "role": "employee",
+    "employeeId": 1
+  },
+  {
+    "id": 3,
+    "username": "janesmith",
+    "password": "$2a$10$Wm65ftyCujZDgEAL6xubV.v8TpzeElS1mIsCtKQaCuP.p8dk6kE.G",
+    "role": "employee",
+    "employeeId": 2
+  },
+  {
+    "id": 4,
+    "username": "rushid",
+    "password": "$2a$10$2nLAOfqKxW08lVZWzzCZ1.F.v6m4mg4AztJ.ZhoTaCl4uyLNS5gXS",
+    "role": "employee",
+    "employeeId": 3
+  }
+]

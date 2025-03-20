@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "position": "Software Developer",
+    "department": "Engineering",
+    "joinDate": "2022-01-15",
+    "salary": 85000,
+    "phone": "555-123-4567",
+    "address": "123 Main St, Anytown, USA",
+    "userId": 2
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "position": "UI Developer",
+    "department": "Design and development",
+    "joinDate": "2021-08-10",
+    "salary": 75000,
+    "phone": "555-987-6543",
+    "address": "456 near deccan mill",
+    "userId": 3
+  },
+  {
+    "id": 3,
+    "name": "Rushikesh Dhavale",
+    "email": "rushid@gmail.com",
+    "position": "Gen AI developer",
+    "department": "Research and Development",
+    "joinDate": "2021-06-16",
+    "salary": 2500000,
+    "phone": "123456789",
+    "address": "Station Road near deccan mill",
+    "userId": 4
+  }
+]
